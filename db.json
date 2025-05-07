@@ -1,4 +1,5 @@
-{ "utenti": [
+{ 
+    "utenti": [
     {
       "id": 1,
       "nome": "Mario Rossi",

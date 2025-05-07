@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "nome": "Mario Rossi",
+      "img":"https://images.pexels.com/photos/897817/pexels-photo-897817.jpeg?cs=srgb&dl=pexels-mastercowley-897817.jpg&fm=jpg",
+      "email": "mario.rossi@example.com",
+      "password": "password123",
+      "description": "Crazy",
+      "ruolo": "agente"
+    },
+    {
+      "id": 2,
+      "nome": "Giulia Bianchi",
+      "img":"https://media.istockphoto.com/id/1587604256/photo/portrait-lawyer-and-black-woman-with-tablet-smile-and-happy-in-office-workplace-african.jpg?s=612x612&w=0&k=20&c=n9yulMNKdIYIQC-Qns8agFj6GBDbiKyPRruaUTh4MKs=",
+      "email": "giulia.bianchi@example.com",
+      "password": "giulia2024",     
+      "description": "Crazy2",
+      "ruolo": "cliente"
+    },
+    {
+      "id": 3,
+      "nome": "Luca Verdi",
+      "img": "https://st2.depositphotos.com/2931363/6569/i/450/depositphotos_65699901-stock-photo-black-man-keeping-arms-crossed.jpg",
+      "email": "luca.verdi@example.com",
+      "password": "luca_test",
+      "description": "Crazy3",
+      "ruolo": "cliente"
+    }
+  ]
